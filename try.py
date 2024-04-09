@@ -1,5 +1,3 @@
-import pandas as pandas
-import matplotlib.pyplot as plt 
 from tkinter import *
 import csv
 from tkinter import ttk
